@@ -1,6 +1,6 @@
 This is made for CSE-224 CA1 assignment.
-![IMG](img/a.png)
-![IMG](img/b.png)
-![IMG](img/c.png)
-![IMG](img/d.png)
-![IMG](img/e.png)
+![IMG1](img/a.png)
+![IMG2](img/b.png)
+![IMG3](img/c.png)
+![IMG4](img/d.png)
+![IMG5](img/e.png)
